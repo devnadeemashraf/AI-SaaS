@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">An AI SaaS Platform</h1>
-  <p style={{color: "#222222"}}>NOTE: API Keys have expired so the Services are not functional at the moment.</p>
+  <p style={{color: "#222222"}}>NOTE: API Keys have reached their limit so the Services are not functional at the moment.</p>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
